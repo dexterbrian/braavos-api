@@ -1,4 +1,4 @@
-# braavos SMS API
+# Braavos API
 
 A two-way SMS API built using Lumen, a PHP Framework by Laravel. The app enabled users to request loans by simply sending an SMS.
 
